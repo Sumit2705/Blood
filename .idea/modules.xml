@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BloodGit.iml" filepath="$PROJECT_DIR$/BloodGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Blood1.iml" filepath="$PROJECT_DIR$/.idea/Blood1.iml" />
+      <module fileurl="file://E:\GalwayNewLookWorkSpace\Blood1\BloodGit.iml" filepath="E:\GalwayNewLookWorkSpace\Blood1\BloodGit.iml" />
       <module fileurl="file://E:\AndoridStudioProjects\blood\BloodStain.iml" filepath="E:\AndoridStudioProjects\blood\BloodStain.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\GalwayNewLookWorkSpace\Blood1\app\app.iml" filepath="E:\GalwayNewLookWorkSpace\Blood1\app\app.iml" />
       <module fileurl="file://E:\AndoridStudioProjects\BloodGit\app\app.iml" filepath="E:\AndoridStudioProjects\BloodGit\app\app.iml" />
       <module fileurl="file://E:\AndoridStudioProjects\BloodGit\blood.iml" filepath="E:\AndoridStudioProjects\BloodGit\blood.iml" />
     </modules>

@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     
-    String st_name = "2705";
+    String st_name = "2705Sumit";
 
 
     @Override
