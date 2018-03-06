@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     
-    String st_name = "Sumit";
+    String st_name = "Sumit Saini";
     TextView tv_textview;
     Button bt_click;
 
