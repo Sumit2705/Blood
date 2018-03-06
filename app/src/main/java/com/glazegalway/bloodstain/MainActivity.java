@@ -5,16 +5,15 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     
-    String st_name = "Sumit"
-    TextView tv_textview;
+    String st_name = "Sumitbgcghcvghgv";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        tv_textview = (TextView) findviewbyid(R.id.tv_textview);
-        tv_textview.setText(st_name);
+
           
         
         
